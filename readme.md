@@ -6,7 +6,6 @@ Application class is only responsible for producing these classess.
 - Maximum discount of any campaign is applied to the cart as stated in the case doc.
 - Cart print method prints related information after grouping categories.
 - Testcases are added.
-- Javadoc is added.
 
 ##### Discount Initialization:
 ```sh
